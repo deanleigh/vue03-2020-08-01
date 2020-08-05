@@ -1,7 +1,7 @@
 <template>
-<div class="container">
+<div class="container-fluid bg-primary">
   <div class="row">
-    <div class="col-sm">
+    <div class="col">
       <Header msg="This is the Header"/>
     </div>
   </div>
