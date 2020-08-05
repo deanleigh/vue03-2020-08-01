@@ -1,6 +1,6 @@
 <template>
-  <div class="hello">
-    <h1>Header block</h1>
+  <div class="av">
+    <h1>I am the header here</h1>
   </div>
 </template>
 
